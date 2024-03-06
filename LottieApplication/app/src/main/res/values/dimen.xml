@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="aisearch_input_text_line_spacing_extra">5dp</dimen>
+</resources>
